@@ -13,5 +13,6 @@ Riddles:
 
 
 
-![Screenshot 2024-03-19 052044](https://github.com/Yousefali37/Prolog/assets/170263695/f083c965-88d7-48fd-89f6-b5f177ec1072)
+![Screenshot 2024-03-19 052044](https://github.com/Yousefali37/Prolog/assets/170263695/1131a0e5-7561-4926-9cdf-947346416a6a)
+
 
